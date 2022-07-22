@@ -2,7 +2,7 @@ My solutions to Python for Everybody: Exploring Data using Python 3 by Charles S
 
 Chapters
 1 - Installing Python /
-2 - WhyProgram? /
+2 - Why Program? /
 3 - Variables, Expressions and Statements /
 4 - Conditional Execution /
 5 - Functions /
