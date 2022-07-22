@@ -1,0 +1,6 @@
+#We learn how to make variables and store data in those variables.
+
+hrs = float(input("Enter Hours: "))
+rate = float(input("enter rate: "))
+m= hrs*rate
+print("Pay: " + str(m))
