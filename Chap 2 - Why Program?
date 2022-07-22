@@ -1,3 +1,5 @@
 #We learn why one might want to learn to program, and look at the basic issues with learning to program
 
+#Write a program that uses a print statement to say 'hello world' as shown in 'Desired Output'.
+
 print("hello world")
