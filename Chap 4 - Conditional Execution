@@ -1,0 +1,32 @@
+#We look at how Python executes some statements and skips others.
+
+#3.1
+
+h = float(input("Enter Hours: "))
+s = float(input("Enter Salary: "))
+overtimeHours = 0
+overtimeSalary = 0
+overtimePay =0
+if h > 40:
+    overtimeHours = h - 40
+    overtimeSalary = s*1.5
+    overtimePay = overtimeHours*overtimeSalary
+regularPay = 40*s
+print(str(regularPay+overtimePay))
+
+#3.3
+
+grade = float(input("Enter Grade: "))
+if 0.0 > grade > 1.0:
+  print("Not a valid grade!")
+  quit()
+elif grade >= 0.9:
+    print("A")
+elif grade >= 0.8:
+    print("B")
+elif grade >= 0.7:
+    print("C")
+elif grade >= 0.6:
+    print("D")
+elif grade < 0.6:
+    print("F")
