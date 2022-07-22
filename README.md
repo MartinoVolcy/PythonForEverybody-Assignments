@@ -17,4 +17,4 @@ Chapters
 14 - Using Web Services /
 15 - Object-Oriented Proramming /
 16 - Databases /
-17 - Data Visualization /
+17 - Data Visualization 
